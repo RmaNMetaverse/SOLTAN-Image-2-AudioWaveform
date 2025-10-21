@@ -1,0 +1,23 @@
+#Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+#Distribution / packaging
+.bundle/
+dist/
+build/
+*.egg-info/
+*.egg
+
+#IDE folders
+.vscode/
+.idea/
+
+#Output files
+*.wav
