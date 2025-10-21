@@ -1,6 +1,6 @@
-# 🎵 PNG to Waveform Generator
+# 🎵 Image to Custom-Shaped Audio Waveform Generator
 
-This project contains Python scripts to convert the **shape of a transparent PNG image into an audio waveform**.  
+Convert the **shape of a transparent PNG image into an audio waveform**.  
 You can literally *"draw your sound."*
 
 It comes with two versions:
@@ -14,7 +14,7 @@ The output is a `.wav` file that, when viewed in an audio editor, will visually 
 ## 🚀 Installation
 
 This project uses a few common Python libraries for image and audio processing.  
-You can install them using **pip**:
+after installing python & pip on your system, you can install them using **pip**:
 
 ```bash
 pip install pillow numpy scipy
