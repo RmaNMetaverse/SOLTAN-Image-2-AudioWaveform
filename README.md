@@ -9,6 +9,16 @@ It comes with two versions:
 
 The output is a `.wav` file that, when viewed in an audio editor, will visually match the shape of the input image.
 
+<div align="center">
+  <img src="outputs/heart.png" alt="Heart waveform" style="max-width:800px; width:90%; height:auto; margin:8px 0;" />
+  <br />
+  <img src="outputs/heart%202.png" alt="Heart 2 waveform" style="max-width:800px; width:90%; height:auto; margin:8px 0;" />
+  <br />
+  <img src="outputs/machine-gun.png" alt="Machine gun waveform" style="max-width:800px; width:90%; height:auto; margin:8px 0;" />
+  <br />
+  <img src="outputs/Audacity%20Results.png" alt="Audacity view" style="max-width:800px; width:90%; height:auto; margin:8px 0;" />
+</div>
+
 ---
 
 ## 🚀 Installation
